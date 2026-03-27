@@ -9,3 +9,4 @@
 ### Lessons
 - **Brand over Ops:** For a solo founder with limited capital, the brand value of high-quality research is a better "P0" than the operational complexity of a full-stack fund.
 - **The "Multi-Sourced" Philosophy:** Moving away from a single source of truth (the inbox) to a "trusted emphasis + broad scanning" model improves the robustness and credibility of the final research product.
+- **Build in Public:** Committed to radical transparency to build brand trust with potential clients from day one.

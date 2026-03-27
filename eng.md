@@ -11,6 +11,7 @@
 - **Skill Codification:** Populated `SKILL_research_council.md` and `SKILL_trading_office.md` with operational protocols.
 - **Python Packaging:** Added `__init__.py` files across all modules to ensure proper namespace management.
 - **Traceability:** Implemented `InboxRepository` with full support for source-linking in reports.
+- **Build in Public:** Initialized git repository and published to GitHub at `https://github.com/ronithryal/ai_trading_office`.
 
 ### Lessons
 - **Schema Flexibility:** Using a `metadata_json` column in SQLite early on ensures we can handle diverse data from different MCPs/APIs without frequent migrations.
