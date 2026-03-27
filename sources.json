@@ -1,0 +1,40 @@
+{
+  "sources": [
+    {
+      "name": "Clouded Judgement",
+      "type": "newsletter",
+      "cadence": "weekly",
+      "ingestion_method": "rss_or_imap",
+      "priority": "emphasis",
+      "topics": ["saas", "multiples", "cloud"],
+      "enabled": true
+    },
+    {
+      "name": "Artemis Research",
+      "type": "crypto",
+      "cadence": "periodic",
+      "ingestion_method": "api_or_scrape",
+      "priority": "emphasis",
+      "topics": ["crypto", "on-chain", "defi"],
+      "enabled": true
+    },
+    {
+      "name": "Contrary Research",
+      "type": "equity",
+      "cadence": "periodic",
+      "ingestion_method": "scrape",
+      "priority": "emphasis",
+      "topics": ["private_markets", "startups", "sector_deep_dives"],
+      "enabled": true
+    },
+    {
+      "name": "Reddit WallStreetBets/CryptoCurrency",
+      "type": "social_chatter",
+      "cadence": "real-time",
+      "ingestion_method": "api",
+      "priority": "signal",
+      "topics": ["sentiment", "retail_narrative"],
+      "enabled": true
+    }
+  ]
+}
